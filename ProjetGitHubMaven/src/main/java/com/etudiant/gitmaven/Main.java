@@ -7,6 +7,5 @@ public class Main
 		Message obj = new Message();
 		System.out.println(obj.getMessage("Jenkins"));
 	}
-
 }
 
